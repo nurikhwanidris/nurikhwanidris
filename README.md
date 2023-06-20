@@ -1,54 +1,67 @@
-Welcome to my GitHub page! Here you will find a collection of my projects and contributions as a Senior Web Developer. I have worked with Tulip Resources Sdn Bhd and Selamatbercuti.com, and I am a self-taught programmer with a passion for creating elegant and user-friendly web applications.
-About Me
+<h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
+Saurabh</a></h1>
+<h3 align="center">A passionate Mobile App developer from Pune India &#127470;&#127475</h3>
 
-I am a dedicated and experienced Senior Web Developer specializing in building robust and user-centric web applications. With a strong background in web development and a focus on creating elegant and efficient solutions, I am adept at utilizing various technologies and frameworks to deliver exceptional results. I am self-taught, continuously expanding my knowledge and skills in the field of programming.
-Skills
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
 
-Here are some of the key skills and technologies I possess:
+<p align="left"> <a href="https://twitter.com/100rabhcsmc" target="blank"><img src="https://img.shields.io/twitter/follow/100rabhcsmc?logo=twitter&style=for-the-badge" alt="100rabhcsmc" /></a> </p>
 
-    Web Development: Laravel, HTML, CSS, JavaScript
-    Front-end Frameworks: Bootstrap, Vue.js
-    Database: MySQL, PostgreSQL
-    Version Control: Git, GitHub
-    Deployment: Heroku, AWS, DigitalOcean
-    UI/UX Design: Wireframing, Prototyping
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
 
-Projects
-Project 1: Infra Management System
+- 🔭 I’m currently working in <a href="https://phoenix.tech/griffyn/" target="blank">Griffyn Robotech Private Limited</a>
 
-    Description: Infra Management System is a project aimed at managing infrastructure resources efficiently. It helps in tracking and organizing various aspects related to infrastructure management.
-    Technologies used: Laravel, Bootstrap, MySQL, HTML, CSS, JavaScript
-    Contribution: Currently, the project is still in development. My role involves contributing to the development of various modules and features, ensuring smooth functionality, and collaborating with the team to deliver a high-quality product.
+- 🌱 I’m currently Working on Mobile App(React-Native)
 
-Project 2: CMS For JUPEM
+- 🤝 I’m available for freelancing.
 
-    Description: CMS For JUPEM is a Content Management System designed specifically for JUPEM (Department of Survey and Mapping Malaysia). It provides an intuitive and user-friendly interface to manage content, documents, and resources for the organization.
-    Technologies used: Laravel, Bootstrap, MySQL, HTML, CSS, JavaScript
-    Contribution: In this project, I was involved in the development of the CMS from scratch. My responsibilities included designing the database schema, implementing the front-end and back-end functionalities, ensuring security measures, and overseeing the deployment process.
+- 🌱 I’m currently learning Swift && SwiftUI <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a>
 
-Project 3: LMS For ASWARA
+- 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc)
 
-    Description: LMS For ASWARA is a Learning Management System developed for ASWARA (National Arts Culture and Heritage Academy, Malaysia). It facilitates the management of online courses, student enrollment, course materials, and assessments.
-    Technologies used: Laravel, Bootstrap, MySQL, HTML, CSS, JavaScript
-    Contribution: Similar to the CMS For JUPEM project, I played a significant role in developing the LMS from scratch. This involved building user authentication and authorization, designing the database structure, implementing the core features, and ensuring a smooth deployment process.
+- 💬 Ask me about **Reactjs & React-Native**
 
-Work Experience
-Tulip Resources Sdn Bhd
+- 📫 How to reach me **saurabhchavan052@gmail.com**
 
-    Position: Senior Web Developer
-    Duration: November 2021 - June 2023
-    Description: Describe your role, responsibilities, and notable achievements or projects.
+- 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
+<br/>
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
-Selamatbercuti.com
+<p align="center">
 
-    Position: Web Developer
-    Duration: July 2017 - March 2020
-    Description: Describe your role, responsibilities, and notable achievements or projects.
+ <div align="center"  class="icons-social" style="margin-left: 10px;">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/saurabhmchavan/">
+			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/100rabhcsmc">
+		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+		<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/12053852/saurabh-chavan?tab=profile">
+				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
+	   <a style="margin-left: 10px;" target="_blank" href="https://dev.to/100rabhcsmc">
+					<img src="https://img.icons8.com/external-sketchy-juicy-fish/0.6x/external-blog-online-services-sketchy-sketchy-juicy-fish.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/100rabhch">
+			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
+		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/100rabhcsmc">
+			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
+		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UC-ZdNkKNHC6KguDqNFKO2Nw?view_as=subscriber">
+				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
+		<a style="margin-left: 5px;" target="_blank" href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf">
+					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
+      </div>
 
-Education
+</p>
 
-    Self-Taught Programmer: Continuously expanding knowledge and skills through self-learning and online resources.
+### Blogs posts
 
-Contact Information
+<!-- BLOG-POST-LIST:START -->
 
-You can reach me via email at nurikhwanidris.dev@gmail.com or on my personal number at +60162614844. I am open to new opportunities, collaborations, and discussions related to web development. Please feel free to explore my projects and don't hesitate to reach out to me. Thank you for visiting my GitHub page!
+- [Download Instagram profile picture using python](https://dev.to/100rabhcsmc/instagram-profile-picture-download-using-python-n2j)
+- [Convert a image to sketch using python](https://dev.to/100rabhcsmc/convert-a-image-to-sketch-using-python-3ip1)
+- [Upload your project/files in GitHub using commands](https://dev.to/100rabhcsmc/upload-your-project-files-in-github-using-commands-1hn8)
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+Credit: [Saurabh Chavan](https://github.com/100rabhcsmc)
+
+Last Edited on: 08/08/2022
