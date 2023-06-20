@@ -11,13 +11,9 @@
 
 - 🔭 I’m currently working in <a href="https://hitowerit.com/" target="blank">HiTower</a>
 
-- 🌱 I’m currently Working on Mobile App(React-Native)
+- 🌱 I’m currently Working on Web Application
 
 - 🤝 I’m available for freelancing.
-
-- 🌱 I’m currently learning Swift && SwiftUI <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a>
-
-- 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc)
 
 - 💬 Ask me about **PHP & Laravel**
 
