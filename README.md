@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working in <a href="https://hitowerit.com/" target="blank">HiTower</a>
 
-- 🌱 I’m currently Working on Web Application
+- 🌱 I’m currently Working on Web Application for my personal project
 
 - 🤝 I’m available for freelancing.
 
