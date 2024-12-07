@@ -27,6 +27,26 @@
 - 📫 Reach me at **nurikhwanidris.dev@gmail.com**
 - 📄 View my experiences on [LinkedIn](https://linkedin.com/in/nurikhwanidris)
 
+### 🛠 Featured Project: Triphive
+
+<div align="center">
+  <img src="https://triphive.my/images/logo.png" alt="Triphive Logo" width="200">
+</div>
+
+#### 🌟 About Triphive
+A revolutionary travel management platform that simplifies trip planning and booking for travel agencies. Built with Laravel, Vue.js, and cutting-edge technologies.
+
+#### ✨ Key Features
+- 🏨 Seamless hotel booking integration
+- 🎫 Tour package management
+- 💳 Secure payment processing
+- 👥 User-friendly interface for travelers and agents
+- 📱 Responsive design for all devices
+
+#### 🔗 Links
+- 🌐 [Visit Triphive](https://triphive.my)
+- 📝 [Read More](https://triphive.my/about)
+
 ### 🛠️ Tech Stack
 
 <div align="center">
@@ -56,12 +76,12 @@
     <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" alt="linkedin"/>
   </a>
   <a href="https://github.com/nurikhwanidris" target="_blank">
-    <img src="https://img.icons8.com/doodle/40/000000/github--v1.png" alt="github"/>
+    <img src="https://img.shields.io/github/followers/nurikhwanidris?label=Follow&style=social" alt="github"/>
   </a>
   <a href="https://instagram.com/nurikhwanidris" target="_blank">
-    <img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png" alt="instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="instagram" height="25"/>
   </a>
   <a href="https://twitter.com/nurikhwanidris" target="_blank">
-    <img src="https://img.icons8.com/doodle/40/000000/twitter-squared--v2.png" alt="twitter"/>
+    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="twitter" height="25"/>
   </a>
 </div>
