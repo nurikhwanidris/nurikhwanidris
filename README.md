@@ -29,10 +29,6 @@
 
 ### 🛠 Featured Project: Triphive
 
-<div align="center">
-  <img src="https://triphive.my/images/logo.png" alt="Triphive Logo" width="200">
-</div>
-
 #### 🌟 About Triphive
 A revolutionary travel management platform that simplifies trip planning and booking for travel agencies. Built with Laravel, Vue.js, and cutting-edge technologies.
 
