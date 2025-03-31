@@ -7,12 +7,6 @@
 </p>
 
 <div align="center">
-  [![Twitter Follow](https://img.shields.io/twitter/follow/nurikhwanidris?style=social)](https://twitter.com/nurikhwanidris)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/nurikhwanidris)
-  [![Instagram Follow](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/nurikhwanidris)
-</div>
-
-<div align="center">
   <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </div>
 
