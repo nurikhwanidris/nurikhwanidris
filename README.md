@@ -7,11 +7,10 @@
 </p>
 
 <div align="center">
-  
   [![Profile Views](https://komarev.com/ghpvc/?username=nurikhwanidris&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/nurikhwanidris)
   [![Twitter Follow](https://img.shields.io/twitter/follow/nurikhwanidris?style=social)](https://twitter.com/nurikhwanidris)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/nurikhwanidris)
-  
+  [![Instagram Follow](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/nurikhwanidris)
 </div>
 
 <div align="center">
@@ -46,23 +45,18 @@ A revolutionary travel management platform that simplifies trip planning and boo
 ### 🛠️ Tech Stack
 
 <div align="center">
-  
   ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
   ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-  
 </div>
 
 ### 📊 GitHub Stats
 
 <div align="center">
-  
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nurikhwanidris&show_icons=true&theme=tokyonight)
-  
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nurikhwanidris&theme=tokyonight)
-  
 </div>
 
 ### 🤝 Connect with me
