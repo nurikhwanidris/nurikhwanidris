@@ -1,24 +1,30 @@
-## 👋 About Me
+# Nur Ikhwan Idris
 
-Hello! I'm **Nur Ikhwan Idris**, a passionate **Software Developer** based in **Kuala Lumpur, Malaysia 🇲🇾**.
+English major who taught himself to code. Now I ship complete systems on my own: Laravel and Vue, from database to deploy.
 
-I specialize in **PHP** and **Laravel**, and I enjoy building robust web applications that make life easier for businesses and users alike. With a strong focus on creating scalable and efficient solutions, I’m always excited to take on new challenges and learn from them.
+Based in Damansara, Klang Valley.
 
-### 🚀 What I'm Currently Working On
-- I'm currently working at [Jom e-Invoice](https://jomeinvoice.my/), where I help build and maintain an e-invoicing solution for businesses in Malaysia.
-- I’m actively developing personal web applications to streamline business processes and improve user experiences.
-- Always experimenting with new technologies and frameworks, from **Vue.js** to **AI integrations**.
+## What I'm building
 
-### 🌱 My Skillset
-- **Backend:** Expertise in **PHP**, **Laravel**, and **SQL/NoSQL**.
-- **Frontend:** Skilled in **JavaScript**, **Vue.js**, and responsive design.
-- **DevOps:** Familiar with **Nginx**, **Redis**, and cloud-based deployments.
-- **AI/Automation:** Passionate about integrating AI into my projects to enhance functionality and ease of use.
+- **[Fasih](https://fasih.my)**: topic-based practice for primary school (Year 1 to 6) in Bahasa Melayu, English and Maths. Built on one idea: get reading, writing and arithmetic solid first, and the rest gets easier. Parents see which topics a child struggles with, not just a score.
+- **[Vendoor](https://vendoor.my)**: bookings and payments for small Malaysian vendors. The customer books, the vendor accepts in one tap, the deposit is confirmed.
+- **[Autokira](https://autokira.my)**: accounting and invoicing for small businesses.
 
-### 💼 Let's Connect
-I am open to freelance opportunities, collaborations, and consulting. If you're interested in discussing a project or just want to connect, feel free to reach out!
+## What I'm good at
 
-- **📧 Email:** [nurikhwanidris.dev@gmail.com](mailto:nurikhwanidris.dev@gmail.com)
-- **💼 LinkedIn:** [Nur Ikhwan Idris](https://linkedin.com/in/nurikhwanidris)
-- **🐦 Twitter:** [@nurikhwanidris](https://twitter.com/nurikhwanidris)
-- **📸 Instagram:** [@nurikhwanidris](https://instagram.com/nurikhwanidris)
+Back-office systems for Malaysian businesses: HR, payroll, invoicing, bookings, billing. I take a messy process, build the whole thing, and keep it running.
+
+- **Backend:** PHP, Laravel, PostgreSQL, MySQL, Redis, queues
+- **Frontend:** Vue 3, Inertia
+- **Ops:** Docker, Nginx, Cloudflare Tunnel, self-hosted
+- **AI:** agents for automation and developer tooling
+
+## Work with me
+
+Got a process eating your team's time? I'm open to freelance work on Laravel and Vue systems. Tell me the problem first, we'll sort out the tool after.
+
+- Web: [nurikhwanidris.my](https://nurikhwanidris.my)
+- Email: [nurikhwanidris.dev@gmail.com](mailto:nurikhwanidris.dev@gmail.com)
+- LinkedIn: [Nur Ikhwan Idris](https://linkedin.com/in/nurikhwanidris)
+- X: [@nurikhwanidris](https://x.com/nurikhwanidris)
+- Instagram: [@nurikhwanidris](https://instagram.com/nurikhwanidris)
